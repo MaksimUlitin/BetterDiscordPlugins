@@ -1,4 +1,4 @@
-# BetterDiscordPlugins
+ # BetterDiscordPlugins
 
 <sup>Just me trying</sup>
 
